@@ -18,7 +18,7 @@ def get_post_titles(**kwargs):
     request = requests.get(base_url, params=payload)
     return [a['title'] for a in request.json()['data']]
 
-api_key = 'WEzAHVi3WSNaGJdsHGkEPreheqssa0ihmCXc7Kx4'
+api_key = 'api key'
 
 co = cohere.Client(api_key)
 
