@@ -13,7 +13,7 @@ Using voiceflow, conversations are recorded between the nurse and the patient, i
 
 ### 💻**The Technical**
 
-CondensER was built using Co-Here API and Assembly AI API
+CondensER was built using Cohere API and Assembly AI API
 
 Our model has a 70% efficiency in extracting text from medical information.
 
